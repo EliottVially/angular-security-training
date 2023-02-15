@@ -1,5 +1,5 @@
 # Nom de l'Action : Scorecard
-# Le workflow s'exécute lorsque quelqu'un pousse des modifications sur la branche principale
+# Le workflow s'exécute lor sque quelqu'un pousse des modifications sur la branche principale
 on:
   push:
     branches:
